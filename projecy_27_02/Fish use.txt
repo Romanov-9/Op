@@ -1,0 +1,3 @@
+Fisch for food-Type- predator,  Weight- 2.0,  Price- 6,  Prezence of bones- true
+Fisch for ayarium-Type- predator,  Weight- 2.0,  Price- 6,  Life time- 10,  Color- Blue
+Fisch for massage-Type- predator,  Weight- 2.0,  Price- 6,  Use in massage- true
